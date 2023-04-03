@@ -1,0 +1,19 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Amanda",
+      "lastName": "Vikdal"
+    },
+    {
+      "firstName": "bryce",
+      "lastName": "simonds",
+      "id": 2
+    },
+    {
+      "firstName": "kora",
+      "lastName": "white dragon",
+      "id": 3
+    }
+  ]
+}
